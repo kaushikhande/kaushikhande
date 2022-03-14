@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kaushik Hande, a Ruby on Rails and ReactJS Developer 👋
 
 <!--
 **kaushikhande/kaushikhande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
